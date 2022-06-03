@@ -1,0 +1,69 @@
+CRITICAL - 2022-05-16 00:01:44 --> Invalid file: edit_profile.php
+#0 E:\Xampp\htdocs\ZafarShb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_profile.ph...')
+#1 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('edit_profile.ph...', Array, true)
+#2 E:\Xampp\htdocs\ZafarShb\app\Controllers\Home.php(26): view('edit_profile.ph...', Array)
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Home->edit_profile()
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-05-16 01:10:15 --> Unknown column 'user_id' in 'field list'
+CRITICAL - 2022-05-16 02:20:09 --> Undefined property: stdClass::$joinddate
+#0 E:\Xampp\htdocs\ZafarShb\app\Views\captain\edit_captain.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\Xampp\\htdocs...', 76)
+#1 E:\Xampp\htdocs\ZafarShb\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\ZafarShb\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('captain/edit_ca...', Array, true)
+#4 E:\Xampp\htdocs\ZafarShb\app\Controllers\Captain.php(197): view('captain/edit_ca...', Array)
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Captain->edit_captain('2')
+#6 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Captain))
+#7 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 02:21:18 --> Undefined property: stdClass::$joinddate
+#0 E:\Xampp\htdocs\ZafarShb\app\Views\captain\edit_captain.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\Xampp\\htdocs...', 78)
+#1 E:\Xampp\htdocs\ZafarShb\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\ZafarShb\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('captain/edit_ca...', Array, true)
+#4 E:\Xampp\htdocs\ZafarShb\app\Controllers\Captain.php(197): view('captain/edit_ca...', Array)
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Captain->edit_captain('2')
+#6 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Captain))
+#7 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-16 02:24:01 --> Table 'zafarshb.customer' doesn't exist
+CRITICAL - 2022-05-16 02:24:01 --> Call to a member function getResult() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Captain->update_Captain()
+#1 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Captain))
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-16 02:25:45 --> Table 'zafarshb.customer' doesn't exist
+CRITICAL - 2022-05-16 02:25:45 --> Call to a member function getResult() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Captain->update_Captain()
+#1 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Captain))
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-16 02:52:43 --> Table 'zafarshb.customer' doesn't exist
+CRITICAL - 2022-05-16 02:52:43 --> Call to a member function getResult() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Captain->update_Captain()
+#1 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Captain))
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-16 03:21:02 --> Table 'zafarshb.customer' doesn't exist
+CRITICAL - 2022-05-16 03:21:02 --> Call to a member function getResult() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Captain->update_Captain()
+#1 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Captain))
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-16 03:21:19 --> Table 'zafarshb.customer' doesn't exist
+CRITICAL - 2022-05-16 03:21:19 --> Call to a member function getResult() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Captain->update_Captain()
+#1 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Captain))
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-16 03:21:42 --> Table 'zafarshb.customer' doesn't exist
+ERROR - 2022-05-16 03:21:52 --> Table 'zafarshb.customer' doesn't exist

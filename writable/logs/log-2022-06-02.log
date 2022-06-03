@@ -1,0 +1,31 @@
+CRITICAL - 2022-06-02 12:07:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ZafarShb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ZafarShb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ZafarShb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ZafarShb\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-06-02 12:07:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ZafarShb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ZafarShb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ZafarShb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ZafarShb\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-06-02 12:07:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ZafarShb\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ZafarShb\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ZafarShb\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ZafarShb\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+ERROR - 2022-06-02 05:35:38 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-06-02 05:35:38 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\ZafarShb\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\ZafarShb\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\ZafarShb\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#6 C:\xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

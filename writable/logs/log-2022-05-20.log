@@ -1,0 +1,165 @@
+CRITICAL - 2022-05-20 05:27:52 --> Invalid file: Vehicle/add_vehicle.php
+#0 E:\Xampp\htdocs\ZafarShb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Vehicle/add_veh...')
+#1 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('Vehicle/add_veh...', Array, true)
+#2 E:\Xampp\htdocs\ZafarShb\app\Controllers\Vehicle.php(149): view('Vehicle/add_veh...')
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Vehicle->Add_vehicle()
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-20 05:28:08 --> Invalid file: Vehicle/add_vehicle.php
+#0 E:\Xampp\htdocs\ZafarShb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Vehicle/add_veh...')
+#1 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('Vehicle/add_veh...', Array, true)
+#2 E:\Xampp\htdocs\ZafarShb\app\Controllers\Vehicle.php(149): view('Vehicle/add_veh...')
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Vehicle->Add_vehicle()
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-20 05:28:13 --> Invalid file: Vehicle/add_vehicle.php
+#0 E:\Xampp\htdocs\ZafarShb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Vehicle/add_veh...')
+#1 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('Vehicle/add_veh...', Array, true)
+#2 E:\Xampp\htdocs\ZafarShb\app\Controllers\Vehicle.php(149): view('Vehicle/add_veh...')
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Vehicle->Add_vehicle()
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-20 05:28:20 --> Invalid file: Vehicle/add_vehicle.php
+#0 E:\Xampp\htdocs\ZafarShb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Vehicle/add_veh...')
+#1 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('Vehicle/add_veh...', Array, true)
+#2 E:\Xampp\htdocs\ZafarShb\app\Controllers\Vehicle.php(149): view('Vehicle/add_veh...')
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Vehicle->Add_vehicle()
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-20 05:29:09 --> Invalid file: vehicle/add_vehicle.php
+#0 E:\Xampp\htdocs\ZafarShb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('vehicle/add_veh...')
+#1 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('vehicle/add_veh...', Array, true)
+#2 E:\Xampp\htdocs\ZafarShb\app\Controllers\Vehicle.php(149): view('vehicle/add_veh...')
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Vehicle->Add_vehicle()
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-20 05:29:11 --> Invalid file: vehicle/add_vehicle.php
+#0 E:\Xampp\htdocs\ZafarShb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('vehicle/add_veh...')
+#1 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('vehicle/add_veh...', Array, true)
+#2 E:\Xampp\htdocs\ZafarShb\app\Controllers\Vehicle.php(149): view('vehicle/add_veh...')
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Vehicle->Add_vehicle()
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-20 05:29:11 --> Invalid file: vehicle/add_vehicle.php
+#0 E:\Xampp\htdocs\ZafarShb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('vehicle/add_veh...')
+#1 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('vehicle/add_veh...', Array, true)
+#2 E:\Xampp\htdocs\ZafarShb\app\Controllers\Vehicle.php(149): view('vehicle/add_veh...')
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Vehicle->Add_vehicle()
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-20 05:29:26 --> Invalid file: vehicle/add_vehicle.php
+#0 E:\Xampp\htdocs\ZafarShb\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('vehicle/add_veh...')
+#1 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('vehicle/add_veh...', Array, true)
+#2 E:\Xampp\htdocs\ZafarShb\app\Controllers\Vehicle.php(149): view('vehicle/add_veh...')
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Vehicle->Add_vehicle()
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-05-20 07:10:57 --> Column 'type' cannot be null
+ERROR - 2022-05-20 07:11:58 --> Column 'type' cannot be null
+ERROR - 2022-05-20 07:12:32 --> Column 'type' cannot be null
+CRITICAL - 2022-05-20 07:23:26 --> Undefined array key 0
+#0 E:\Xampp\htdocs\ZafarShb\app\Views\captain\edit_captain.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 76)
+#1 E:\Xampp\htdocs\ZafarShb\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\ZafarShb\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\ZafarShb\system\Common.php(1089): CodeIgniter\View\View->render('captain/edit_ca...', Array, true)
+#4 E:\Xampp\htdocs\ZafarShb\app\Controllers\Captain.php(197): view('captain/edit_ca...', Array)
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Captain->edit_captain('1')
+#6 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Captain))
+#7 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-20 23:41:21 --> Error connecting to the database: Unknown database 'zafarshb'
+CRITICAL - 2022-05-20 23:41:21 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'zafarshb'
+#0 E:\Xampp\htdocs\ZafarShb\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\Xampp\htdocs\ZafarShb\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\Xampp\htdocs\ZafarShb\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\Xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 E:\Xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#6 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-20 23:41:55 --> Error connecting to the database: Unknown database 'zafarshb'
+CRITICAL - 2022-05-20 23:41:55 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'zafarshb'
+#0 E:\Xampp\htdocs\ZafarShb\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\Xampp\htdocs\ZafarShb\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\Xampp\htdocs\ZafarShb\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\Xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 E:\Xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#6 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-20 23:41:57 --> Error connecting to the database: Unknown database 'zafarshb'
+CRITICAL - 2022-05-20 23:41:57 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'zafarshb'
+#0 E:\Xampp\htdocs\ZafarShb\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\Xampp\htdocs\ZafarShb\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\Xampp\htdocs\ZafarShb\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\Xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 E:\Xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#6 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-20 23:42:05 --> Error connecting to the database: Unknown database 'zafarshb'
+CRITICAL - 2022-05-20 23:42:05 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'zafarshb'
+#0 E:\Xampp\htdocs\ZafarShb\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\Xampp\htdocs\ZafarShb\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\Xampp\htdocs\ZafarShb\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\Xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 E:\Xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#5 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#6 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-20 23:44:47 --> Table 'zafarshb.users' doesn't exist in engine
+CRITICAL - 2022-05-20 23:44:47 --> Call to a member function getFirstRow() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 E:\Xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-20 23:44:54 --> Table 'zafarshb.users' doesn't exist in engine
+CRITICAL - 2022-05-20 23:44:54 --> Call to a member function getFirstRow() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 E:\Xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-20 23:46:13 --> Table 'zafarshb.users' doesn't exist in engine
+CRITICAL - 2022-05-20 23:46:13 --> Call to a member function getFirstRow() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 E:\Xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

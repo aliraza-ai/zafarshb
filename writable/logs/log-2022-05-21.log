@@ -1,0 +1,27 @@
+ERROR - 2022-05-21 00:21:11 --> Table 'zafarshb.users' doesn't exist in engine
+CRITICAL - 2022-05-21 00:21:11 --> Call to a member function getFirstRow() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 E:\Xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-21 00:21:42 --> Table 'zafarshb.users' doesn't exist in engine
+CRITICAL - 2022-05-21 00:21:42 --> Call to a member function getFirstRow() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 E:\Xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-21 00:22:05 --> Table 'zafarshb.users' doesn't exist in engine
+CRITICAL - 2022-05-21 00:22:05 --> Call to a member function getFirstRow() on bool
+#0 E:\Xampp\htdocs\ZafarShb\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 E:\Xampp\htdocs\ZafarShb\app\Controllers\Login.php(46): CodeIgniter\BaseModel->first()
+#2 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(832): App\Controllers\Login->verify()
+#3 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 E:\Xampp\htdocs\ZafarShb\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\Xampp\htdocs\ZafarShb\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
