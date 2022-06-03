@@ -33,6 +33,7 @@
                             <i class="right fas fa-angle-left"></i>
                         </p>
                     </a>
+
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
                             <a href="<?= base_url()?>/Captain/" class="nav-link">
@@ -74,7 +75,6 @@
                         </li>
                     </ul>
                 </li>
-
 
                 <!--  Reports   -->
 
